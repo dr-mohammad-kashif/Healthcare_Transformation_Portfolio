@@ -37,15 +37,23 @@ Data cleaning, visit analysis, time-to-follow-up, MRN validation, duplicates, Pa
 `/PowerBI_Dashboards`  
 Neurology dashboards, Saudi OPD dashboards, Ada’a KPI dashboards (screenshots + .pbix files).
 
-### **4️⃣ HealthTech Content**  
+### **4️⃣ Excel Health Data**  
+`/Excel_Health_Data`  
+Raw and cleaned healthcare datasets used for practice (OPD/IPD mock data, KPI datasets, structured hospital tables for SQL/BI projects).
+
+### **5️⃣ Tableau Projects**  
+`/Tableau_Projects`  
+Interactive dashboards, KPI visualizations, patient flow maps, and experimental Tableau stories for Healthcare & Saudi Vision 2030 themes.
+
+### **6️⃣ HealthTech Content**  
 `/HealthTech_Content`  
 NPHIES lifecycle, ICD-10-AM notes, UCAF/DCAF forms, HIS workflows, TrakCare/Cerner architecture maps.
 
-### **5️⃣ FHIR / HL7 Lab**  
+### **7️⃣ FHIR / HL7 Lab**  
 `/FHIR_HL7`  
 FHIR resources, JSON bundles, HL7 message examples (ADT/ORU/ORM), interoperability experiments.
 
-### **6️⃣ Medical Writing Portfolio**  
+### **8️⃣ Medical Writing Portfolio**  
 `/Medical_Writing_Portfolio`  
 Patient guides, clinical summaries, SEO articles, bilingual leaflets, technical HealthTech writing.
 
@@ -53,8 +61,8 @@ Patient guides, clinical summaries, SEO articles, bilingual leaflets, technical 
 
 ## 📫 Contact
 
-- **LinkedIn:** *https://www.linkedin.com/in/mohammad-kashif-97b665194?utm_source=share_via&utm_content=profile&utm_medium=member_android*
-- **Email:** *kashif.157298@gmail.com*  
+- **LinkedIn:** https://www.linkedin.com/in/mohammad-kashif-97b665194  
+- **Email:** kashif.157298@gmail.com  
 - **Location:** India (current)  
 
 ---
@@ -62,5 +70,3 @@ Patient guides, clinical summaries, SEO articles, bilingual leaflets, technical 
 ## 🔖 License
 
 This project is open for viewing and educational purposes.
-
----
