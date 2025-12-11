@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./1765452737367.jpg" alt="Healthcare Transformation Portfolio Banner" width="100%">
+</p>
+
 # Healthcare Transformation Portfolio – Dr. Mohammad Kashif (MD)
 
 Welcome to my HealthTech, Data, and Medical Writing transformation portfolio.
