@@ -43,14 +43,4 @@ Migraine affects many individuals across populations. However, most manage sympt
 
 You’re not stuck - support is always right near the corner.
 
-## Medical Disclaimer
-
-This document is intended for general educational purposes only.  
-It does **not** replace professional medical advice, diagnosis, or treatment.
-
-Always consult a qualified healthcare professional for:
-- Individual diagnosis  
-- Treatment decisions  
-- Medication-related advice  
-
-Do not ignore or delay seeking medical help based on information provided in this guide.
+# Disclaimer: This material is educational in nature and does not constitute medical or clinical advice. For any health concerns or persistent symptoms, please consult a licensed healthcare professional.
