@@ -1,0 +1,26 @@
+Patient_ID,Age,Gender,Visit_Type,Reason,Doctor,Date,Follow_Up_Needed,Referral_Category
+1,56,M,Follow Up,Chronic Pain,Dr. Omar,2025-01-07,YES,Follow-up
+2,38,F,New Visit,Follow-up Visit,Dr. Fatima,2025-01-05,YES,Self
+3,47,M,New Visit,Migraine,Dr. Fatima,2025-01-10,YES,Self
+4,28,F,New Visit,Chronic Pain,Dr. Ali,2025-01-04,NO,Self
+5,48,F,New Visit,Migraine,Dr. Fatima,2025-01-14,NO,Self
+6,52,M,Follow Up,Chronic Pain,Dr. Fatima,2025-01-11,YES,Follow-up
+7,51,M,Follow Up,Migraine,Dr. Ali,2025-01-16,YES,Follow-up
+8,39,M,New Visit,Chronic Pain,Dr. Sara,2025-01-13,YES,Self
+9,60,F,Follow Up,Seizure Follow-up,Dr. Ali,2025-01-13,NO,Follow-up
+10,52,F,Follow Up,Seizure Follow-up,Dr. Sara,2025-01-17,YES,Follow-up
+11,57,F,Follow Up,Follow-up Visit,Dr. Fatima,2025-01-16,NO,Follow-up
+12,53,M,Follow Up,Neuropathy,Dr. Ali,2025-01-14,YES,Follow-up
+13,42,M,New Visit,Migraine,Dr. Sara,2025-01-17,YES,Self
+14,53,F,Follow Up,Neuropathy,Dr. Fatima,2025-01-05,YES,Follow-up
+15,31,F,New Visit,Neuropathy,Dr. Fatima,2025-01-17,NO,Self
+16,68,F,Follow Up,Neuropathy,Dr. Omar,2025-01-20,YES,Follow-up
+17,55,M,Follow Up,Neuropathy,Dr. Sara,2025-01-07,YES,Follow-up
+18,45,M,New Visit,Headache,Dr. Sara,2025-01-19,NO,Self
+19,58,M,Follow Up,Headache,Dr. Ali,2025-01-11,NO,Follow-up
+20,53,F,Follow Up,Neuropathy,Dr. Sara,2025-01-08,NO,Follow-up
+21,46,M,New Visit,Chronic Pain,Dr. Omar,2025-01-11,YES,Self
+22,34,F,New Visit,Headache,Dr. Fatima,2025-01-19,NO,Self
+23,59,F,Follow Up,Migraine,Dr. Fatima,2025-01-11,YES,Follow-up
+24,28,F,New Visit,Seizure Follow-up,Dr. Sara,2025-01-03,YES,Self
+25,58,F,Follow Up,Chronic Pain,Dr. Omar,2025-01-10,NO,Follow-up
