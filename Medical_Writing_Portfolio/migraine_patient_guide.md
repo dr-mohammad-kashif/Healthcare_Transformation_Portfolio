@@ -49,4 +49,4 @@ Migraine affects many individuals across populations. However, most manage sympt
 
 You’re not stuck - support is always right near the corner.
 
-## **Disclaimer: This material is educational in nature and does not constitute medical or clinical advice. For any health concerns or persistent symptoms, please consult a licensed healthcare professional.**
+# Disclaimer: This information is purely educational and does not amount to medical advice. If you feel unwell or if your symptoms persist, contact a duly licensed healthcare professional.
