@@ -26,4 +26,4 @@ As people start entering the later decades of their lives, concerns such as forg
 
 These five key symptoms make up a large share of clinic visits in neurology. Though some stem from harmless issues, certain ones demand quick action. Using a structured clinical approach and diagnostic tests and tools when needed separates common cases from severe brain or nerve conditions. Getting checked early leads to better results for patients; spotting these patterns early helps medical staff respond faster and more accurately.
 
-# Disclaimer: This material is educational in nature and does not constitute medical or clinical advice. For any health concerns or persistent symptoms, please consult a licensed healthcare professional.
+# Disclaimer: This information is purely educational and does not amount to medical advice. If you feel unwell or if your symptoms persist, contact a duly licensed healthcare professional.
