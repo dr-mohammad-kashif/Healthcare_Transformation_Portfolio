@@ -18,4 +18,4 @@ If pain like burning, shooting or tingling sensations last longer than several w
 
 Neuropathic pain is really challenging; however, proper treatment - like medications, daily habit changes, and consistent check-ins - helps most individuals control discomfort while staying active and comfortable.
 
-**Disclaimer: This material is educational in nature and does not constitute medical or clinical advice. For any health concerns or persistent symptoms, please consult a licensed healthcare professional.**
+# Disclaimer: This material is educational in nature and does not constitute medical or clinical advice. For any health concerns or persistent symptoms, please consult a licensed healthcare professional.**
