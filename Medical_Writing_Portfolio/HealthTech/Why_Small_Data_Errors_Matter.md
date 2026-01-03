@@ -1,0 +1,13 @@
+# Why Small Data Errors Matter in Healthcare Analytics
+
+Small data errors don’t usually announce themselves. It’s often a missing value here or an ambiguous label there—details that feel easy to ignore in isolation. But in healthcare analytics, those details rarely stay contained. Over time, they add up, and the distortions they introduce end up shaping decisions in ways that aren’t always obvious.
+
+Missing age data is a good example. It’s common, and it’s more damaging than it looks. Age underpins risk stratification in most clinical models, so when it’s absent or inconsistently recorded, the entire picture shifts. Vulnerability in older populations can be understated, while broad trends get applied to groups where they don’t really belong. The analysis doesn’t collapse. It still produces results—just not the ones you think you’re getting.
+
+Follow-up indicators create a different kind of problem. Many datasets include a simple binary field: “Follow-up required—Yes or No.” On paper, that seems clear enough. In practice, it often isn’t. Does “Yes” mean the patient was contacted? That an appointment was booked? That they actually returned? Without context, the field becomes hard to interpret. Even so, it’s frequently used to estimate continuity of care, assess workload, or support resource planning. The assumption is that the data reflects reality. Quite often, it doesn’t.
+
+Provider naming introduces another layer of distortion. The same physician might appear under multiple name variations depending on who entered the data or which system it came from. When that happens, performance metrics and attribution models start to wobble. Apparent differences in practice can turn out to be nothing more than differences in data entry—a nuance that’s difficult to explain once scorecards are already in circulation.
+
+At the center of all of this is trust. Clinicians and executives tend to assume that dashboards are built on reliable foundations. Clean summaries reinforce that belief. What they don’t reveal are the missing values, the inconsistent coding, or the fields whose meaning changes from one contributor to the next. The gap between how trustworthy the data looks and how trustworthy it actually is is where risk enters the picture.
+
+This isn’t an argument for perfection. No healthcare dataset is ever complete, and waiting for flawless data only leads to inaction. But analytics still has to be meaningful. If insights can’t be trusted, they shouldn’t be used to guide decisions that affect patient care. Data quality isn’t a back-office concern or a technical nicety—it’s foundational. When it’s compromised, everything built on top of it is, too.
