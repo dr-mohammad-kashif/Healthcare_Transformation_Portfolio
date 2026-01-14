@@ -1,6 +1,6 @@
 # Power BI Dashboards
 
-## UNDER PROGRESS
+## IN PROGRESS
 
 Power BI projects focusing on clinic and hospital KPIs:
 - Neurology Visit Dashboard
