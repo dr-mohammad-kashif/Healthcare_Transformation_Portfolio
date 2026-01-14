@@ -1,6 +1,6 @@
 # SQL Projects
 
-This folder contains all SQL work from my 24-week transformation plan:
+This folder contains all SQL work from transformation plan:
 - Neurology_Clinic_DB
 
   *IN PROGRESS*
