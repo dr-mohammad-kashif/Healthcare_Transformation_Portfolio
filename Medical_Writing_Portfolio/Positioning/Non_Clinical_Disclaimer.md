@@ -23,3 +23,15 @@ All material is provided for informational purposes only. Final interpretation, 
 4. Contextualize healthcare data by highlighting what the information shows, what it does not show, and where misinterpretation can occur.
 
 5. Support internal learning, documentation, and knowledge-sharing efforts within health-tech, analytics, and research-oriented teams.
+
+## What I Do Not Do
+
+1. I do not provide medical advice, diagnoses, treatment recommendations, or prognostic opinions for individuals.
+
+2. I do not interact with patients or participate in patient care, care coordination, or clinical decision-making.
+
+3. I do not author, submit, or sign off on documents intended for formal regulatory review or approval.
+
+4. I do not enter, modify, or validate information within live electronic health records or clinical systems.
+
+5. I do not assume responsibility for clinical outcomes, regulatory outcomes, or patient-level decisions.
