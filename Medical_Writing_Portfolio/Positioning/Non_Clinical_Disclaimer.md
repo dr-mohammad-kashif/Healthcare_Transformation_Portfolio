@@ -1,4 +1,4 @@
-## Non-Clinical Scope & Disclaimer
+# Non-Clinical Scope & Disclaimer
 
 The work described here is intended to be strictly non-clinical in nature. My focus is on healthcare data interpretation and medical communication for informational or educational use, not on clinical decision-making or patient care. Nothing produced should be understood as medical advice or used to guide diagnosis, treatment, or prognosis.
 
