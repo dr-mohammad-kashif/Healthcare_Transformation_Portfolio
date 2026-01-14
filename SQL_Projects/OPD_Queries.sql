@@ -23,3 +23,8 @@ SELECT
     COUNT(*) AS count_visits
 FROM OPD_Visits
 GROUP BY Visit_Type;
+
+-- Average hides age clustering.
+-- Doctor load doesn’t reflect complexity.
+-- High counts don’t imply high clinical burden.
+-- Diagnosis frequency ignores severity variation.
