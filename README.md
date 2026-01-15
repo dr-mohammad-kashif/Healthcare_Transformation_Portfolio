@@ -11,6 +11,7 @@ I am a **Medical Doctor (MD)**, currently building a hybrid career across **Heal
 This repository will expand with time as I complete structured projects in SQL, Python, Power BI, HL7/FHIR, HealthTech content, NPHIES/RCM workflow, and medical writing.
 
 ---
+# *To access the Medical Writing Portfolio, kindly open the "medical_writing_portfolio" folder*
 
 ##  Core Tracks (My Master Plan)
 
@@ -20,8 +21,8 @@ This portfolio is built around six growth tracks:
 - **Python for Health Data** — cleaning, wrangling, visit analytics, quality checks  
 - **Power BI Dashboards** — clinic KPIs, OPD flow, NPHIES/RCM visuals  
 - **HealthTech Content** — NPHIES, ICD-10-AM, UCAF/DCAF, Ada’a KPIs  
-- **FHIR / HL7 Interoperability** — mock bundles, HL7 messages, mappings  
-- **Medical Writing Portfolio** — clinical, scientific, bilingual, technical HealthTech writing  
+- **FHIR / HL7 Interoperability** — mock bundles, HL7 messages, mappings
+- **Medical Writing Portfolio**   
 
 This structure acts as a skeleton and a guideline for all of my current goals in this portfolio.
 
