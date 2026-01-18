@@ -10,7 +10,7 @@ Located in `/Non-Clinical_Explainers/Core/`
  **1. What Healthcare Dashboards Show — and What They Quietly Leave Out**  
 Business-style non-clinical explanation of what is being shown by healthcare dashboard and what is often left out of the data.
 
- **2. Plain-Language Diabetes Transformation (Before → After)**  
+ **2. Plain-Language Diabetes Transformation (Before & After)**  
 Provides examples of health literacy and controlled simplifications of clinical data for a general audience.
 
  **3. HL7 — A Simple Explainer**  
