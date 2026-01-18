@@ -7,16 +7,16 @@
 ## Core Non-Clinical Explainers:
 Located in `/Non-Clinical_Explainers/Core/`
 
- **What Healthcare Dashboards Show — and What They Quietly Leave Out**  
+ **1. What Healthcare Dashboards Show — and What They Quietly Leave Out**  
 Business-style non-clinical explanation of what is being shown by healthcare dashboard and what is often left out of the data.
 
- **Plain-Language Diabetes Transformation (Before → After)**  
+ **2. Plain-Language Diabetes Transformation (Before → After)**  
 Provides examples of health literacy and controlled simplifications of clinical data for a general audience.
 
- **HL7 — A Simple Explainer**  
+ **3. HL7 — A Simple Explainer**  
  A technical explanation of a healthcare interoperability concept, for non-technical stakeholders.
  
- **Why Small Data Errors Matter in Healthcare Analytics**  
+ **4. Why Small Data Errors Matter in Healthcare Analytics**  
 A non-technical explanation of how small errors in data can grow into large-scale misinterpretations within a healthcare system.
 
 ## Background Samples:
