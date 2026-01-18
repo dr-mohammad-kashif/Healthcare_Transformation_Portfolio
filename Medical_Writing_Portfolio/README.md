@@ -1,26 +1,26 @@
 # Medical Writing & Healthcare Data Interpretation Portfolio
 
-## Flagship Work
+## Flagship Work:
  **Flagship Healthcare Data Interpretation Explainer (PDF)**  
-  Narrative explainer combining non-clinical healthcare data interpretation with a de-identified visualization. Focused on safe decision-making and misinterpretation risk.
+ Combines a narrative explainer that interprets de-identified non-clinical healthcare data, with a visualizer to help reduce the risk of misinterpretation in making safe decisions.
 
-## Core Non-Clinical Explainers
+## Core Non-Clinical Explainers:
 Located in `/Non-Clinical_Explainers/Core/`
 
  **What Healthcare Dashboards Show — and What They Quietly Leave Out**  
-  Business-style explainer on interpreting healthcare dashboards and understanding common blind spots.
+Business-style non-clinical explanation of what is being shown by healthcare dashboard and what is often left out of the data.
 
  **Plain-Language Diabetes Transformation (Before → After)**  
-  Demonstrates health literacy and controlled simplification of clinical information for general audiences.
+Provides examples of health literacy and controlled simplifications of clinical data for a general audience.
 
  **HL7 — A Simple Explainer**  
-  Technical healthcare interoperability concept explained for non-technical stakeholders.
-
+ A technical explanation of a healthcare interoperability concept, for non-technical stakeholders.
+ 
  **Why Small Data Errors Matter in Healthcare Analytics**  
-  Explainer on how minor data issues can scale into major misinterpretations in healthcare systems.
+A non-technical explanation of how small errors in data can grow into large-scale misinterpretations within a healthcare system.
 
-## Additional Background Samples
-Older and patient-oriented samples are archived for reference in `/Non-Clinical_Explainers/Archive/`.
+## Background Samples:
+The archive of older and patient-oriented samples for reference purposes can be located at `/Non-Clinical_Explainers/Archive/`.
 
-## Positioning
- Non-clinical disclaimer and scope boundaries are documented in `/Positioning/`.
+## Positioning:
+ Documentation of non-clinical disclaimers and scope limits can be found at `/Positioning/`.
