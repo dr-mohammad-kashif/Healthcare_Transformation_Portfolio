@@ -1,23 +1,25 @@
 # What Healthcare Dashboards Show — and What They Quietly Leave Out
 
-Healthcare dashboards are designed to bring clarity. In one screen, they summarize activity, performance, and trends that would otherwise take hours to review. For busy teams, that compression is useful. But it also comes with a trade-off that is easy to overlook: dashboards simplify reality by design.
+Dashboards provide clarity for healthcare organizations. One screen displays the activities, performance, and trends that could take hours to view. While this is useful for busy teams to quickly see the information, there is a potential downside that is frequently overlooked; dashboards are simplifying reality by design.
 
-What dashboards usually show well are counts, rates, and changes over time. Volumes of visits, average turnaround times, utilization percentages, month-over-month movement. These metrics are helpful starting points. They help teams notice patterns and spot signals that something may need attention.
+Most dashboards show count-based information (e.g., volume of visits), rate-based information (e.g., utilization percentage) and trend-based information (e.g., month-to-month changes). These metrics are excellent beginning points for identifying patterns and trends and identifying areas that need attention. However, dashboards are generally not very effective at showing how these numbers were produced.
 
-What they do not show as clearly is how those numbers came to exist.
+Few dashboards will explain the circumstances under which the data was collected. Frequently omitted are staffing shortages, workflow changes, reporting delay issues, and documentation backlog issues, all of which can result in different numbers being reported even when the actual underlying performance has not changed. The lack of an explanation of these circumstances makes a single chart appear to be telling a much stronger story about performance than the actual evidence really supports.
 
-A dashboard rarely explains the conditions under which data was collected. Staffing shortages, workflow changes, reporting delays, or documentation backlogs often sit outside the visualization. When those factors shift, the numbers can change even if underlying performance has not. Without that context, a chart can appear to tell a story that is more decisive than reality actually supports.
+Additionally, many dashboards omit variability. Dashboards typically aggregate data to keep it easily readable. Average, median, total, etc. allow for the management of large complex systems into one easily viewed screen. However, aggregating data eliminates the variability among the data. It is possible for a metric that appears to be relatively stable to conceal wide variations in performance among departments, locations, or user groups. Without the ability to segment the data, it is easy to overlook where friction or risk is occurring.
 
-Another quiet omission is variation. Dashboards favor aggregation because it keeps things readable. Averages, medians, and totals make large systems manageable at a glance. But aggregation smooths out differences. A metric that looks stable overall may hide sharp disparities across departments, locations, or user groups. Without segmentation, it is easy to miss where friction or risk is actually concentrated.
+Dashboards also typically treat the definition of a metric as a static object. Even though the definition of a metric evolves, once defined it is treated as unchanging. Changes to coding rules, inclusion/exclusion criteria, and/or the source of the data can change the definition of what a particular number represents, but does not affect its visual appearance on the screen. If the definition changes are not documented adjacent to the visualization, then comparisons made over time become less reliable than they appear.
 
-Dashboards also tend to freeze definitions. Metrics are treated as fixed objects, even though definitions evolve. Changes in coding rules, inclusion criteria, or data sources can alter what a number represents without changing how it looks on screen. When those shifts are not documented alongside the visualization, comparisons over time become less reliable than they appear.
+Most importantly, dashboards seldom represent uncertainty; confidence intervals, data completeness and recognized limitations are typically excluded. Therefore, the data appears precise, creating an illusion of finality that encourages over-confidence in decision making.
 
-Perhaps most importantly, dashboards rarely show uncertainty. Confidence intervals, data completeness, and known limitations are usually absent. The result is a sense of precision that feels reassuring but can encourage overconfidence. Numbers look final, even when they are provisional.
+Reading dashboards properly requires using dashboards as discussion topics rather than as definitive conclusions. A number of questions to ask while interpreting data from dashboards may be:
 
-Reading dashboards safely means treating them as conversation starters, not verdicts. Useful questions include: What is not captured here? What assumptions does this metric rely on? Has anything changed upstream that could explain this pattern?
+What is not being measured by this dashboard?
+Upon which assumptions is this metric based?
+Has something changed upstream that would explain this trend?
 
-Dashboards are valuable tools, but they are not neutral narrators. They reflect choices about what to include, what to simplify, and what to leave out. Teams that recognize those boundaries make better decisions than those who mistake a clean chart for a complete picture.
+Although dashboards can be effective tools, they are not neutral reporters. Dashboards represent the selection of items to display, simplification of complex issues and exclusion of certain information. As such, teams that acknowledge these boundaries will likely produce more effective decisions than teams that assume a clean and visually appealing chart represents all relevant information.
 
-## Non-Clinical Note
+## Note - Non-Clinical
 
-This explainer is intended for informational and educational purposes only. It discusses general principles of healthcare data interpretation and does not provide clinical, diagnostic, or treatment guidance.
+This explainer is intended for informational and educational purposes only and addresses general concepts of interpreting healthcare data, and not clinical, diagnostic or treatment guidelines.
