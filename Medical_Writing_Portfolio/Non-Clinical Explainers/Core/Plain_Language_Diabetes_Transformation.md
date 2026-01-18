@@ -7,20 +7,19 @@ Diabetes mellitus is a chronic metabolic disorder characterized by persistent hy
 
 ## After (Plain-Language Version)
 
-Diabetes is a long-term condition that affects how the body handles sugar in the blood. Sugar is one of the main sources of energy for the body, but it needs help to move from the bloodstream into cells. That help comes from a hormone called insulin.
+Diabetes is a chronic condition that impacts how your body processes sugar in your blood. Your body uses sugar for energy; however, to do so, it requires assistance to transfer it from the blood into your body's cells. The hormone that provides that assistance is insulin.
 
-In some people, the body makes very little or no insulin. In others, insulin is present but does not work as effectively as it should. When this happens, sugar stays in the blood instead of being used for energy. Over time, higher than normal sugar levels can quietly strain different parts of the body.
+Some individuals' bodies produce very little insulin, while others have insulin but it functions less effectively than it should. When either of these occurs, sugar cannot be utilized by the body for energy and therefore remains in the blood. Prolonged exposure to elevated blood sugar levels may silently harm many areas of your body.
 
-If blood sugar remains high for long periods, it can affect the eyes, kidneys, nerves, heart, and blood vessels. These changes usually develop slowly and may not cause noticeable symptoms at first. Diabetes is influenced by a mix of factors, including family history, daily habits, and how the body responds to stress and energy demands. Because of this, it is generally considered a long-term condition that needs ongoing attention rather than a short-term problem.
-
+When elevated blood glucose levels are sustained for extended periods, they may negatively impact the eyes, kidneys, nerves, heart, and blood vessels. Many times, these changes occur gradually and may not be accompanied by identifiable symptoms initially. Diabetes is influenced by an assortment of factors, including your family's genetic background, your lifestyle, and how well your body manages stress and meets its energy requirements. As such, diabetes is commonly viewed as a chronic condition that will require your continued interest and attention versus an acute problem.
 
 ## Changes
 
-1. Medical terms such as *hyperglycemia*, *insulin resistance*, and *microvascular complications* were replaced with everyday language.
-2. The core biological idea of how insulin and blood sugar interact was preserved without technical detail.
-3. Specific treatments, targets, or recommendations were intentionally left out to avoid medical advice.
-4. The focus was shifted from disease classification to general understanding of how the condition affects the body over time.
+1. *Hyperglycemia*, *insulin resistance*, and *microvascular complications* were replaced with common terminology.
+2. How insulin and blood glucose interact biologically were maintained without specific details about the technical aspects of the interaction.
+3. Treatments, targets, or recommendations were omitted to prevent the provision of medical advice.
+4. The focus on disease classification was changed to a general understanding of the way that diabetes impacts your body over time.
 
 
-**Non-Clinical Note:**  
-This sample is intended for educational and informational purposes only. It explains general health concepts and does not provide medical advice, diagnosis, or treatment guidance.
+**Disclaimer:**  
+This sample is provided solely for educational and informational purposes. This explanation describes basic health principles and does not constitute medical advice, diagnosis or treatment guidelines.
