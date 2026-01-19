@@ -16,13 +16,15 @@ Over time, I will continue to grow and add additional structured projects to thi
 
 ## Core Tracks (My Master Plan)
 
-The portfolio has been designed around six growth areas:
+The portfolio has been designed around these growth areas:
 
+- **Microsoft Excel** - Improving excel proficiency and implementation of Healthcare data usage in excel.
 - **SQL & Databases** — I have completed several small projects working with healthcare datasets and learning how to perform simple joins and create queries.
-- **Python for Health Data** — This area focuses on my ability to clean, process and analyze large amounts of data from patient visits, and the ability to identify errors and discrepancies in the data.
-- **Power BI Dashboards** — I have created dashboards that provide KPI's for clinics and visualizations to help monitor and improve the flow of patients through the outpatient department (OPD).
-- **HealthTech Content** — The focus here is on my development of content related to NPHIES, ICD-10-AM, UCAF/DCAF and the use of KPI's in the Ada'a.
-- **FHIR/Hl7 Interoperability** — I have worked on creating mock bundles, sending HL7 messages, mapping HL7 messages to FHIR resources.
+- **Python for Health Data** — This area will focus on my ability to clean, process and analyze large amounts of data from patient visits, and the ability to identify errors and discrepancies in the data.(ongoing)
+- **Power BI Dashboards** — I am planning to create sample dashboards that provide KPI's for clinics and visualizations to help monitor and improve the flow of patients through the outpatient department (OPD).(ongoing)
+- **Tableau Projects** - I will be focusing on building/manipulating Dashboards and visual Analytics Projects.
+- **HealthTech Content** — The focus here is going to be on my development of content related to NPHIES, ICD-10-AM, UCAF/DCAF and the use of KPI's in the Ada'a. (ongoing)
+- **FHIR/Hl7 Interoperability** — I am planning to work on creating mock bundles, sending HL7 messages, mapping HL7 messages to FHIR resources.(ongoing)
 - **Medical Writing Portfolio**
 
 The above structure serves as a guide and framework for my future goals and objectives in this portfolio.
